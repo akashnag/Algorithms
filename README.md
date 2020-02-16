@@ -1,6 +1,6 @@
-### Repository for a 'Design and Analysis of Algorithms' course
+### A code repository for an undergraduate course in 'Design and Analysis of Algorithms'
 
-This repository contains a Python implementation of various common algorithms, taught as part of a **Design & Analysis of Algorithms** course at the under-graduate level.
+This repository contains a Python implementation of various common algorithms, taught as part of a **Design & Analysis of Algorithms** course at the undergraduate level.
 
 The following is a list of algorithms available in this repository:
 
