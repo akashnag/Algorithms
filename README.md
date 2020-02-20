@@ -6,7 +6,7 @@ The following is a list of algorithms available in this repository:
 
 * **Greedy Algorithms**
 	1. Make Change
-	1. ~~Interval Scheduling~~
+	1. Interval Scheduling
 * **Divide-and-Conquer (DAC) Algorithms**
 	1. ~~Karatsuba integer multiplication~~
 	1. ~~Convex-Hull (2D)~~
@@ -16,7 +16,7 @@ The following is a list of algorithms available in this repository:
 * **Dynamic Programming (DP) Algorithms**
 	1. Number of distinct paths in a grid
 	1. Make Change
-	1. ~~Weighted Interval Scheduling~~
+	1. Weighted Interval Scheduling
 	1. ~~DNA sequence alignment~~
 	1. ~~Knapsack problem~~
 	1. ~~Block Stacking~~
