@@ -44,15 +44,6 @@ class Task:
 	def endsBefore(self, t):
 		return(True if (t.start >= self.finish) else False)
 
-# function to keep only tasks that begin after a given task
-def filterTasks(tasks, t):
-	filtered = []
-	n = len(tasks)
-	for i in range(n):
-		if(t.endsBefore(tasks[i])):
-			filtered.append(tasks[i])
-	return filtered
-
 def main():
 	# input tasks
 	n = int(input("Enter the # of tasks: "))
