@@ -21,10 +21,10 @@ The following is a list of algorithms available in this repository:
 	1. ~~Knapsack problem~~
 	1. ~~Block Stacking~~
 * **Graph Algorithms**
-	1. ~~Depth-First Search (DFS)~~
-	1. ~~Breadth-First Search (BFS)~~
+	1. Depth-First Search (DFS)
+	1. Breadth-First Search (BFS)
 	1. ~~MST using DFS~~
-	1. ~~Prim's Algorithm for MST~~
+	1. Prim's Algorithm for MST
 	1. ~~Kruskal's Algorithm for MST~~
 	1. ~~Dijkstra's Algorithm~~
 	1. ~~Bellman-Ford Algorithm~~
@@ -36,14 +36,14 @@ The following is a list of algorithms available in this repository:
 * **Sorting Algorithms**
 	1. Bubble Sort
 	1. Insertion Sort
-	1. ~~Heap Sort~~
+	1. Heap Sort
 	1. Selection Sort
 	1. ~~Bucket Sort~~
-	1. ~~Radix Sort~~
-	1. ~~Count Sort~~
+	1. Radix Sort
+	1. Count Sort
 	1. ~~Shell Sort~~
-	1. ~~Merge Sort~~
-	1. ~~Quick Sort~~
+	1. Merge Sort
+	1. Quick Sort
 * **Searching Algorithms**
 	1. Linear Search
 	1. Binary Search
@@ -52,7 +52,7 @@ The following is a list of algorithms available in this repository:
 	1. ~~Document Distance~~
 	1. ~~Karp-Rabin Algorithm~~
 	1. ~~Knuth-Morris-Pratt Algorithm~~
-	1. ~~Boyer-Moore Algorithm~~
+	1. Boyer-Moore Algorithm
 	1. ~~Edit-Distance (DP)~~
 * **Other Algorithms**
 	1. ~~Table doubling~~
